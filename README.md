@@ -1,6 +1,6 @@
 # life
 
-*Take advantage of five before five:*
+> *Take advantage of five before five:*
   > - *your youth before your old age* 
   > - *your health before your sickness* 
   > - *your wealth before your poverty* 
