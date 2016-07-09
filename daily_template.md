@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: 
+- [x] **Body** :dancer: 
+- [x] **Soul** :pray: 
