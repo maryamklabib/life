@@ -10,12 +10,12 @@
 
 ---------------------------------------------------
 Daily Goals:
-- [ ] Mind: One code commit a day, article on Medium, or equivalent
-- [ ] Body: Work out
-- [ ] Soul: Memorize 2 pages of Quran
+- [ ] Mind: Something that makes me smarter
+- [ ] Body: Something that makes me stronger 
+- [ ] Soul: Something that makes me closer to Allah
 
 ---------------------------------------------------
-By May 27, 2017:
+Yearly Goal (by Ramadan 2017):
 - [ ] Mind: 1,000 contributions
 - [ ] Body: 50 push ups, lift 20 pounds
 - [ ] Soul: Memorize the Quran
