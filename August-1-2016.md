@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: common Spanish phrases
+- [x] **Body** :dancer: Customs is a good workout
+- [x] **Soul** :pray: Surat Al Anbiya 
