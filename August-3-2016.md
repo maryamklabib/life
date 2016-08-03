@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: Learned spanish (como teyamos?) 
+- [x] **Body** :dancer: Carried things to prepare meals for 100+ people. Joined the most efficient dish washing force every. Ziplined into the pool.
+- [ ] **Soul** :pray: 
