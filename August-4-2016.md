@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: 
+- [x] **Body** :dancer: Shoveled compost and leveled it at the roots of trees for six hours. 
+- [x] **Soul** :pray: 
