@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: Simple implementation of rspec 
+- [x] **Body** :dancer: Hiked in tepoztlan market; played soccer
+- [x] **Soul** :pray: Surat al Anbiya, pages 9-10
