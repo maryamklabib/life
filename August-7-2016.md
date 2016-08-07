@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: DAS - code history integrity 
+- [x] **Body** :dancer: Hike in Mexico City
+- [x] **Soul** :pray: Surat Al Hajj, pages 1-2
