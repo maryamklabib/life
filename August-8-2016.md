@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: DAS - extracting domain objects/conflicting OOP principles 
+- [x] **Body** :dancer: Climbed the aztec pyramids
+- [ ] **Soul** :pray: sadly
