@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: DAS - jobs and processes 
+- [x] **Body** :dancer: travel from mexico to california
+- [ ] **Soul** :pray: 
