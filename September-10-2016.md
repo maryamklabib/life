@@ -1,0 +1,3 @@
+- [x] **Mind** :heartpulse: Learned how to do a proper fitting
+- [x] **Body** :dancer: Walked around the mall for 5 hours
+- [x] **Soul** :pray: Helped people? Kinda decent person? Said nice things?
