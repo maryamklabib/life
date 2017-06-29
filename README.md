@@ -18,14 +18,24 @@ Daily Goals:
 - [ ] Body: Something that makes me stronger 
 - [ ] Soul: Something that makes me closer to Allah
 
+Daily Anti-Goals:
+- [ ] Mind: Don't waste time on the internet
+- [ ] Body: Don't eat too much or sleep too little
+- [ ] Soul: Don't miss Fajr
+
 ---------------------------------------------------
-**Yearly Goal (by Ramadan 2018/1439):**
+**Yearly Goals (by Ramadan 2018/1439):**
 - [ ] Mind: 5 personal projects
 - [ ] Body: Plank for 5 minutes
 - [ ] Soul: Memorize the Quran
 
+**Yearly Anti-Goals (by Ramadan 2018/1439):**
+- [ ] Mind: Don't waste time on the internet for more than 33% of the days
+- [ ] Body: Don't eat too much or sleep too little for more than 33% of the days
+- [ ] Soul: Don't miss Fajr for more than 33% of the days
+
 ---------------------------------------------------
-Yearly Goal (by Ramadan 2017):
+Yearly Goals (by Ramadan 2017):
 - [ ] Mind: 1,000 contributions *(Reached 800+)*
 - [ ] Body: 50 push ups, lift 20 pounds *(Reached 22 push ups in a row, 15 pounds)*
 - [ ] Soul: Memorize the Quran *(Memorized 2 Juz, this year was so sad spiritually)*
