@@ -15,19 +15,16 @@ Daily Goals:
 - [ ] **Soul** :books: Something that makes me closer to Allah
 
 ---------------------------------------------------
+> I asked the Messenger of Allah, "How can salvation be achieved?'
 
-> O you who believe! Fear Allah and keep your duty to Him. 
-
-> And let every person look to what they have sent forth for tomorrow, and fear Allah. 
-
-> Verily, Allah is All-Aware of what you do.
-
-> ***Surat Al Hashr***
+> He said, "Control your tongue, keep to your house, and weep over your sins."
 
 Daily Check-ins:
-- [ ] **Mind** :iphone: Did I expose my mind to something useless?
-- [ ] **Body** :zzz: How is quality and quantity of food today? How is my sleep?
-- [ ] **Soul** :pray: Did I wake up eagerly for Fajr?
+- [x] **Character** :tongue: Did I say good or remain quiet?
+- [x] **Mental Health** :thought_balloon: Did I think positively of my life and Allah?
+- [x] **Prayer** :pray: Did I pray all five salahs on time?
+- [x] **Rest** :zzz: Did I fulfill the right my body has over me?
+- [x] **Time** :iphone: Did I expose my mind to something useless?
 
 ---------------------------------------------------
 
