@@ -1,10 +1,14 @@
 Daily Check-ins:
-- [x] **Mind** :iphone: 
-- [x] **Body** :zzz: 
-- [x] **Soul** :pray: 
+- [x] **Character** :tongue:
+- [x] **Mental Health** :thought_balloon:
+- [x] **Prayer** :pray: 
+- [x] **Rest** :zzz: 
+- [x] **Time** :iphone:
+
+
 
 Daily Goals:
-- [x] **Mind** :heartpulse: 
+- [x] **Mind** :heartpulse:
 - [x] **Body** :dancer: 
 - [x] **Soul** :books: 
 
