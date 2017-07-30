@@ -41,3 +41,8 @@ Yearly Goals (by Ramadan 2017):
 
 
 Longterm Goals: [Tracked here](https://github.com/maryamklabib/life/issues)
+
+Rules:
+
+* Can get one cheat day every week. Commit message must say 'cheat day'.
+* Doing a chore or helping someone out can take the place of a daily goal.
