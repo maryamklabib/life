@@ -1,9 +1,11 @@
 Daily Check-ins:
-- [x] **Character** :tongue:
-- [x] **Mental Health** :thought_balloon:
-- [x] **Prayer** :pray: 
 - [x] **Rest** :zzz: 
 - [x] **Time** :iphone:
+- [x] **Prayer** :pray: 
+- [x] **Bad Habits** :eyes:
+- [x] **Character** :tongue:
+- [x] **Food and Drink** :palm_tree: 
+- [x] **Mental Health** :thought_balloon:
 
 
 
