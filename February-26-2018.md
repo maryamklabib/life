@@ -11,5 +11,5 @@ Daily Check-ins:
 
 Daily Goals:
 - [x] **Mind** :heartpulse: syslog is not the same as /sys/log
-- [x] **Body** :dancer: 
+- [x] **Body** :dancer: legs and cardio
 - [x] **Soul** :books: 
